@@ -4,4 +4,4 @@ Disallow: /admin/
 Disallow: /cuenta/
 Disallow: /checkout/
 
-Sitemap: https://chloebeauty.github.io/sitemap.xml
+Sitemap: https://chloebeauty.dev.ar/sitemap.xml
