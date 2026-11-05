@@ -12,7 +12,7 @@ export const STORE = {
   description: 'Tienda online de maquillaje y perfumes en Argentina: labiales, glosses, bases, paletas y fragancias con envíos a todo el país desde Bahía Blanca.',
   // Dirección pública final del sitio, CON barra al final.
   // Ej.: 'https://tuusuario.github.io/chloe-beauty/' o 'https://www.tudominio.com.ar/'
-  url: 'https://chloebeauty.dev.ar/',
+  url: 'https://chloebeauty.github.io/',
   locale: 'es-AR',
   currency: 'ARS',
   city: 'Bahía Blanca',
